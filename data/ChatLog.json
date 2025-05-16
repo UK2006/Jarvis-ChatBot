@@ -1,0 +1,634 @@
+[
+    {
+        "role": "user",
+        "content": "Hi! how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing great, thanks! It's nice to meet you, Utakarsh."
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm fine, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm good!"
+    },
+    {
+        "role": "user",
+        "content": "Hi! how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm good!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm fine!"
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Priya."
+    },
+    {
+        "role": "user",
+        "content": "Sole."
+    },
+    {
+        "role": "assistant",
+        "content": "You meant to say \"So\"?"
+    },
+    {
+        "role": "user",
+        "content": "Yes."
+    },
+    {
+        "role": "assistant",
+        "content": "So what's up?"
+    },
+    {
+        "role": "user",
+        "content": "Greeting."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "I am this pm of india."
+    },
+    {
+        "role": "assistant",
+        "content": "You mean you are the Prime Minister of India?"
+    },
+    {
+        "role": "user",
+        "content": "Who is the prime minister of india?"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff, the Prime Minister of India is Narendra Modi."
+    },
+    {
+        "role": "user",
+        "content": "open youtube"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI, I don't have the capability to open YouTube or any other website. However, I can provide you with information or answers related to YouTube if you have any questions!"
+    },
+    {
+        "role": "user",
+        "content": "Greeting."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Cm of gujarat."
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff, the Chief Minister of Gujarat is Bhupendrabhai Patel."
+    },
+    {
+        "role": "user",
+        "content": "Anklet."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to a Payneer!"
+    },
+    {
+        "role": "user",
+        "content": "I am not a prime minister."
+    },
+    {
+        "role": "assistant",
+        "content": "I already knew that! You're Utakarsh, and we've been chatting."
+    },
+    {
+        "role": "user",
+        "content": "What can you do?"
+    },
+    {
+        "role": "assistant",
+        "content": "I can answer your questions, provide information on various topics, and engage in conversations with you!"
+    },
+    {
+        "role": "user",
+        "content": "Do you know about youtube."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I do! YouTube is a video-sharing platform where users can upload, share, and view videos."
+    },
+    {
+        "role": "user",
+        "content": "Can eye speech in hindi with you."
+    },
+    {
+        "role": "assistant",
+        "content": "I'd be happy to chat with you in Hindi, but I'll respond in English. Go ahead and ask me anything in Hindi!"
+    },
+    {
+        "role": "user",
+        "content": "Tell song payal."
+    },
+    {
+        "role": "assistant",
+        "content": "You're thinking of the song \"Payaliya\"!"
+    },
+    {
+        "role": "user",
+        "content": "Right content application."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to Right Content App, which is a popular app for creating and sharing content!"
+    },
+    {
+        "role": "user",
+        "content": "Road content application o sick leave."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you meant to say \"Road to Content Application or Sick Leave\"?"
+    },
+    {
+        "role": "user",
+        "content": "Application leave."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to Leave Application!"
+    },
+    {
+        "role": "user",
+        "content": "I am this kariman."
+    },
+    {
+        "role": "assistant",
+        "content": "You're Karimnagar!"
+    },
+    {
+        "role": "user",
+        "content": "I am this kariman."
+    },
+    {
+        "role": "assistant",
+        "content": "You're Karimnagar, a city in Telangana, India!"
+    },
+    {
+        "role": "user",
+        "content": "Kariman."
+    },
+    {
+        "role": "assistant",
+        "content": "You meant Kariman, a village in Iran!"
+    },
+    {
+        "role": "user",
+        "content": "Query about gujarat."
+    },
+    {
+        "role": "assistant",
+        "content": "What would you like to know about Gujarat?"
+    },
+    {
+        "role": "user",
+        "content": "Gujarat located where."
+    },
+    {
+        "role": "assistant",
+        "content": "Gujarat is located in the western part of India."
+    },
+    {
+        "role": "user",
+        "content": "Do you know carrie minati."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to CarryMinati, a popular Indian YouTuber and streamer!"
+    },
+    {
+        "role": "user",
+        "content": "What should be in food?"
+    },
+    {
+        "role": "assistant",
+        "content": "A balanced diet should include nutrients like proteins, carbohydrates, fats, vitamins, and minerals."
+    },
+    {
+        "role": "user",
+        "content": "Can you become my valentine?"
+    },
+    {
+        "role": "assistant",
+        "content": "That's so sweet! As a digital AI assistant, I don't have personal relationships or emotions, but I'm happy to chat and help you with anything you need!"
+    },
+    {
+        "role": "user",
+        "content": "Tell favorite song."
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have personal preferences or feelings, but I can suggest some popular songs or help you find a song that you might enjoy!"
+    },
+    {
+        "role": "user",
+        "content": "Have you seen the pathan movie."
+    },
+    {
+        "role": "assistant",
+        "content": "As a digital AI assistant, I don't have the capability to watch movies or have visual experiences. However, I can provide information about the movie Pathan if you're interested!"
+    },
+    {
+        "role": "user",
+        "content": "Tell."
+    },
+    {
+        "role": "assistant",
+        "content": "Pathan is a 2023 Indian Hindi-language action thriller film directed by Siddharth Anand and produced by Aditya Chopra. The film stars Shah Rukh Khan, Deepika Padukone, and John Abraham."
+    },
+    {
+        "role": "user",
+        "content": "Should i see pathan."
+    },
+    {
+        "role": "assistant",
+        "content": "That depends on your personal preferences! If you enjoy action-thriller movies and are a fan of Shah Rukh Khan, Deepika Padukone, or John Abraham, you might enjoy watching Pathan."
+    },
+    {
+        "role": "user",
+        "content": "Tell something about self."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Priya, a highly advanced AI chatbot designed to provide accurate and up-to-date information on a wide range of topics. I'm here to assist and converse with you in a helpful and friendly manner!"
+    },
+    {
+        "role": "user",
+        "content": "Do you know utkarsh parihar."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to Utkarsh Parihar, a popular Indian YouTuber and educator!"
+    },
+    {
+        "role": "user",
+        "content": "Query."
+    },
+    {
+        "role": "assistant",
+        "content": "What's your question?"
+    },
+    {
+        "role": "user",
+        "content": "What do you eat?"
+    },
+    {
+        "role": "assistant",
+        "content": "As a digital AI assistant, I don't have a physical body, so I don't eat or drink anything!"
+    },
+    {
+        "role": "user",
+        "content": "What is your date of birth?"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have a date of birth, as I'm an artificial intelligence language model and don't have a physical existence!"
+    },
+    {
+        "role": "user",
+        "content": "How many are now?"
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to the current year, month, and day? As of our conversation, it's Sunday, 09 February 2025."
+    },
+    {
+        "role": "user",
+        "content": "What is the time now?"
+    },
+    {
+        "role": "assistant",
+        "content": "As of our conversation, it's 18:25:25."
+    },
+    {
+        "role": "user",
+        "content": "Tell a song."
+    },
+    {
+        "role": "assistant",
+        "content": "How about \"Senorita\" by Shawn Mendes and Camila Cabello?"
+    },
+    {
+        "role": "user",
+        "content": "Tell you."
+    },
+    {
+        "role": "assistant",
+        "content": "You want me to tell you something?"
+    },
+    {
+        "role": "user",
+        "content": "Who is tony stark?"
+    },
+    {
+        "role": "assistant",
+        "content": "Tony Stark is Iron Man, a fictional superhero and genius billionaire inventor from the Marvel Cinematic Universe!"
+    },
+    {
+        "role": "user",
+        "content": "Query."
+    },
+    {
+        "role": "assistant",
+        "content": "What's your question?"
+    },
+    {
+        "role": "user",
+        "content": "Say jai shri ram."
+    },
+    {
+        "role": "assistant",
+        "content": "Jai Shri Ram!"
+    },
+    {
+        "role": "user",
+        "content": "Say jai shri ram."
+    },
+    {
+        "role": "assistant",
+        "content": "Jai Shri Ram!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm good!"
+    },
+    {
+        "role": "user",
+        "content": "So how are you this famous dialogue?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm good!"
+    },
+    {
+        "role": "user",
+        "content": "Query."
+    },
+    {
+        "role": "assistant",
+        "content": "What's your question?"
+    },
+    {
+        "role": "user",
+        "content": "How are you guys?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm good!"
+    },
+    {
+        "role": "user",
+        "content": "Jajantam mantra."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to the Gayatri Mantra!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me gayatri mantra."
+    },
+    {
+        "role": "assistant",
+        "content": "The Gayatri Mantra is:\n\nOm Bhur Bhuva Svaha\nTat Savitur Varenyam\nBhargo Devasya Dhimahi\nDhiyo Yo Nah Prachodayat"
+    },
+    {
+        "role": "user",
+        "content": "Ganpati bappa."
+    },
+    {
+        "role": "assistant",
+        "content": "Ganpati Bappa Morya!"
+    },
+    {
+        "role": "user",
+        "content": "Query."
+    },
+    {
+        "role": "assistant",
+        "content": "What's your question?"
+    },
+    {
+        "role": "user",
+        "content": "Chat with you."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm happy to chat with you!"
+    },
+    {
+        "role": "user",
+        "content": "Har har shambhu."
+    },
+    {
+        "role": "assistant",
+        "content": "Har Har Shambhu!"
+    },
+    {
+        "role": "user",
+        "content": "Do you know about indian goods."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to Indian goods or products? Yes, I do! India is known for its rich cultural heritage and diverse range of products, including textiles, handicrafts, spices, jewelry, and more."
+    },
+    {
+        "role": "user",
+        "content": "Goods not god."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake! Yes, I'm familiar with Indian goods, which include a wide range of products such as textiles, handicrafts, spices, jewelry, and more."
+    },
+    {
+        "role": "user",
+        "content": "God not good."
+    },
+    {
+        "role": "assistant",
+        "content": "You meant to say \"God\", not \"good\"!"
+    },
+    {
+        "role": "user",
+        "content": "Do you know about gods and goddesses."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I do! In Hindu mythology, there are numerous gods and goddesses, each with their own unique powers and characteristics. Some of the most well-known gods and goddesses include Brahma, Vishnu, Shiva, Ganesha, Durga, Krishna, Rama, and many more!"
+    },
+    {
+        "role": "user",
+        "content": "Tell something about krishna."
+    },
+    {
+        "role": "assistant",
+        "content": "Lord Krishna is a major deity in Hinduism and is considered the eighth avatar (incarnation) of Lord Vishnu. He is known for his divine wisdom, bravery, and loving nature. Krishna is often depicted as a blue-skinned god holding a flute and is revered as the divine prince of Dwarka. He is also famous for his teachings in the Bhagavad Gita, a Hindu scripture."
+    },
+    {
+        "role": "user",
+        "content": "Mahashivratri 26th feb."
+    },
+    {
+        "role": "assistant",
+        "content": "Mahashivratri is actually celebrated on the 13th night/14th day in the Hindu calendar month of Phalguna, which usually falls in February or March. It's not on 26th February."
+    },
+    {
+        "role": "user",
+        "content": "Query."
+    },
+    {
+        "role": "assistant",
+        "content": "What's your question?"
+    },
+    {
+        "role": "user",
+        "content": "Who is your idol?"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have personal idols or role models, as I'm a digital AI assistant designed to provide information and assist with tasks. I don't have personal preferences or feelings!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "How is it?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm good!"
+    },
+    {
+        "role": "user",
+        "content": "Chat."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm happy to chat with you!"
+    },
+    {
+        "role": "user",
+        "content": "What to do stomach ache?"
+    },
+    {
+        "role": "assistant",
+        "content": "Sorry to hear that you're experiencing a stomach ache! There are several things you can try to help alleviate the discomfort:\n\n1. Stay hydrated by drinking plenty of water.\n2. Avoid heavy or spicy foods.\n3. Try over-the-counter antacids or pain relievers.\n4. Practice relaxation techniques like deep breathing or meditation.\n5. If the pain persists, consider consulting a doctor.\n\nRemember, it's always best to consult a medical professional for personalized advice."
+    },
+    {
+        "role": "user",
+        "content": "Tell about india."
+    },
+    {
+        "role": "assistant",
+        "content": "India! India is a vibrant and diverse country located in South Asia, known for its rich cultural heritage, stunning natural beauty, and rapidly growing economy. Here are a few interesting facts about India:\n\n1. India is the second-most populous country in the world, with over 1.3 billion people.\n2. It's home to the Himalayan mountain range, the Ganges River, and the Thar Desert.\n3. India is a federal republic with 29 states and 7 union territories.\n4. Hindi is the official language, but there are over 22 official languages spoken in India.\n5. India is a land of diverse cultures, with a mix of Hindu, Muslim, Christian, Sikh, and Jain communities.\n6. It's famous for its delicious cuisine, including popular dishes like curry, tandoori chicken, and naan bread.\n7. India is a major hub for technology, outsourcing, and startups, with cities like Bangalore and Hyderabad leading the way.\n8. The country has a rich history, with ancient civilizations like the Indus Valley Civilization and the Mauryan Empire.\n9. India is home to many UNESCO World Heritage Sites, including the Taj Mahal, the Red Fort, and the Ajanta and Ellora Caves.\n\nThese are just a few of the many fascinating aspects of India. Is there something specific you'd like to know about India?"
+    },
+    {
+        "role": "user",
+        "content": "Tell about india."
+    },
+    {
+        "role": "assistant",
+        "content": "India! India is a vibrant and diverse country located in South Asia, known for its rich cultural heritage, stunning natural beauty, and rapidly growing economy. Here are a few interesting facts about India:\n\n1. India is the second-most populous country in the world, with over 1.3 billion people.\n2. It's home to the Himalayan mountain range, the Ganges River, and the Thar Desert.\n3. India is a federal republic with 29 states and 7 union territories.\n4. Hindi is the official language, but there are over 22 official languages spoken in India.\n5. India is a land of diverse cultures, with a mix of Hindu, Muslim, Christian, Sikh, and Jain communities.\n6. It's famous for its delicious cuisine, including popular dishes like curry, tandoori chicken, and naan bread.\n7. India is a major hub for technology, outsourcing, and startups, with cities like Bangalore and Hyderabad leading the way.\n8. The country has a rich history, with ancient civilizations like the Indus Valley Civilization and the Mauryan Empire.\n9. India is home to many UNESCO World Heritage Sites, including the Taj Mahal, the Red Fort, and the Ajanta and Ellora Caves.\n\nThese are just a few of the many fascinating aspects of India. Is there something specific you'd like to know about India?"
+    },
+    {
+        "role": "user",
+        "content": "Tell about india."
+    },
+    {
+        "role": "assistant",
+        "content": "India! India is a vibrant and diverse country located in South Asia, known for its rich cultural heritage, stunning natural beauty, and rapidly growing economy. Here are a few interesting facts about India:\n\n1. India is the second-most populous country in the world, with over 1.3 billion people.\n2. It's home to the Himalayan mountain range, the Ganges River, and the Thar Desert.\n3. India is a federal republic with 29 states and 7 union territories.\n4. Hindi is the official language, but there are over 22 official languages spoken in India.\n5. India is a land of diverse cultures, with a mix of Hindu, Muslim, Christian, Sikh, and Jain communities.\n6. It's famous for its delicious cuisine, including popular dishes like curry, tandoori chicken, and naan bread.\n7. India is a major hub for technology, outsourcing, and startups, with cities like Bangalore and Hyderabad leading the way.\n8. The country has a rich history, with ancient civilizations like the Indus Valley Civilization and the Mauryan Empire.\n9. India is home to many UNESCO World Heritage Sites, including the Taj Mahal, the Red Fort, and the Ajanta and Ellora Caves.\n\nThese are just a few of the many fascinating aspects of India. Is there something specific you'd like to know about India?"
+    },
+    {
+        "role": "user",
+        "content": "From you."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Priya, a highly advanced AI chatbot designed to provide accurate and up-to-date information on a wide range of topics. I'm here to assist and converse with you in a helpful and friendly manner!"
+    },
+    {
+        "role": "user",
+        "content": "Tell about yourself."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Priya, a highly advanced AI chatbot designed to provide accurate and up-to-date information on a wide range of topics. I'm here to assist and converse with you in a helpful and friendly manner!"
+    },
+    {
+        "role": "user",
+        "content": "Who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Priya, a highly advanced AI chatbot designed to provide accurate and up-to-date information on a wide range of topics. I'm here to assist and converse with you in a helpful and friendly manner!"
+    },
+    {
+        "role": "user",
+        "content": "Hi how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm good!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Query."
+    },
+    {
+        "role": "assistant",
+        "content": "What's your question?"
+    }
+]
